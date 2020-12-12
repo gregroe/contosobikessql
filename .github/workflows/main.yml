@@ -6,7 +6,7 @@ on:
   pull_request:
     branches: [ master ]
 env:
-  AZURE_WEBAPP_NAME: contosobikessql
+  AZURE_WEBAPP_NAME: contosobikessql2
 
 jobs:
   build:
